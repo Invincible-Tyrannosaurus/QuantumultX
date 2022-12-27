@@ -1,5 +1,13 @@
 http=www.91fb.top:5200, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云0
 shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云1
 shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云2
-shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云3
-shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云4
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云3
+http=101.132.79.113:23333, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云4
+http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云5
+http=1.116.214.16:19980, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云6
+http=salvan.icu:19980, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云7
+http=os.tencentcdn.net:25000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云 8
+http=pc.tencentcdn.net:35000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云 9
+http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云 10
+http=azgw.kevinxiao.cf:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云 11
+http=azmb.kevinxiao.cf:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云 12
