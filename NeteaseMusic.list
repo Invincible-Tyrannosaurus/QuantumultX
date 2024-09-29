@@ -1,1 +1,2 @@
-http=www.91fb.top:5200, fast-open=false, udp-relay=false, tag=🎧 解锁节点
+http=www.91fb.top:5200, fast-open=false, udp-relay=false, tag=🎧 解锁节点1
+http=192.168.3.1:5200, fast-open=false, udp-relay=false, tag=🎧 解锁节点2
